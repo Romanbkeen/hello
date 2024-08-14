@@ -1,3 +1,3 @@
 word_A = "hello"
-word_B = "world"
+word_B = "guys"
 print(word_A + " " + word_B)
